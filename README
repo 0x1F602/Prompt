@@ -1,0 +1,9 @@
+This Java package is intended for other Java developers to import. It is used as a Class method.
+
+Usage example:
+. . .
+	String input = Prompt.For("Your Input: ");
+. . .
+
+Nov 1. 2011
+	Initial creation
