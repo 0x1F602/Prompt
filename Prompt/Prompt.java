@@ -1,9 +1,10 @@
 /*
- * Patrik Natali, Kausthab Rao
- * 4
- * CET 350
- * nat1383@calu.edu rao1202@calu.edu
- */
+Developed by Patrik Natali - beta0x64
+Email: patnatali@gmail.com
+Hosted on github
+
+Description: This is a Java utility that simply encapsulates the process of prompting the user for input.
+*/
 package Prompt;
 
 import java.io.*;
